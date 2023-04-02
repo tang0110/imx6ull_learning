@@ -1,2 +1,8 @@
 下载deb包
 sudo dpkg -i *.deb
+ubuntu禁用中键
+xmodmap -e "pointer = 1 25 3 4 5 6 7 2"
+
+vim错误
+sudo apt-get remove vim-common
+sudo apt-get install vim
