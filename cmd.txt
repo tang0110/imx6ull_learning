@@ -6,6 +6,10 @@ xmodmap -e "pointer = 1 25 3 4 5 6 7 2"
 vim错误
 sudo apt-get remove vim-common
 sudo apt-get install vim
-
 共享文件夹
 sudo vmhgfs-fuse .host:/ /mnt/hgfs -o nonempty -o allow_other
+
+ssh-keygen -t rsa -C ‘tangbo123325@gmail.com’
+
+vApo+zius5fCNbKrUYvf0tk/+l7c/AexnWgMtt8q9PA
+
